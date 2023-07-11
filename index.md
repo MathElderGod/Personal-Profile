@@ -1,6 +1,6 @@
 # Alexander G. Arias' Developer Page
 
-<img src="Images/23UCSD-16525320-15-1008812455-1.jpg" alt="Picture of myself in a suit, smiling with my arms crossed while looking to the side." width="300" height="300">
+<img src="Images/23UCSD-16525320-15-1008812455-1.jpg" alt="Picture of myself in a suit, smiling with my arms crossed while looking to the side." width="250" height="300">
 
 ## My Ethos:
 
@@ -27,21 +27,21 @@ You can check out my [LinkedIn](www.linkedin.com/in/alexander-arias-1bb58a111) i
 ### Quiz Time!
 
 **How many degrees did I graduate with?**
-- [x] It is definetly 0
-- [x] I want to say 2?
-- [x] I honestly can't remember
-- [x] It was 4!
+- [] It is definetly 0
+- [] I want to say 2?
+- [] I honestly can't remember
+- [] It was 4!
 
 **What branch of the military did I serve in?**
-- [x] Army
-- [x] Marines
-- [x] Navy
-- [x] Airforce
-- [x] Spaceforce
-- [x] Coat gaurd (Is this even a military branch?)
+- [] Army
+- [] Marines
+- [] Navy
+- [] Airforce
+- [] Spaceforce
+- [] Coat gaurd (Is this even a military branch?)
 
 **Did you like my Quiz?**
-- [x] Yes!
-- [x] No!
-- [x] Sorta?
+- [] Yes!
+- [] No!
+- [] Sorta?
 
