@@ -1,6 +1,6 @@
 # Alexander G. Arias' Developer Page
 
-<img src="Images/23UCSD-16525320-15-1008812455-1.jpg" alt="Picture of myself in a suit, smiling with my arms crossed while looking to the side." width="225" height="300">
+<img src="Images/23UCSD-16525320-15-1008812455-1.jpg" alt="Picture of myself in a suit, smiling with my arms crossed while looking to the side." width="225" height="300" style="border:5px solid black;vertical-align:middle">
 
 ## My Ethos:
 
@@ -18,7 +18,7 @@ You can check out my [LinkedIn](www.linkedin.com/in/alexander-arias-1bb58a111) i
 
 ### My Hobbies:
 
-- **Video Games:** I have a few favorite titles like ***Metal Gear Solid***, ***Monster Hunter***. and ***Elder Scrolls***.
+- **Video Games:** I have a few favorite titles like ***Metal Gear Solid***, ***Monster Hunter***, and ***Elder Scrolls***.
 - **Programming:** I have been programming for the past 6 years through the means of school.
 - **Active Learning:** I like watching podcasts, reading books, and searching up tutorials on the web. 
 - **Electron Repairs:**  I like to open up broken electronics to try and fix them. 
@@ -26,22 +26,23 @@ You can check out my [LinkedIn](www.linkedin.com/in/alexander-arias-1bb58a111) i
 
 ### Quiz Time!
 
-**How many degrees did I graduate with?**
+1. **How many degrees did I graduate with?**
 - [ ] It is definetly 0
 - [ ] I want to say 2?
 - [ ] I honestly can't remember
 - [ ] It was 4!
 
-**What branch of the military did I serve in?**
+2. **What branch of the military did I serve in?**
 - [ ] Army
 - [ ] Marines
 - [ ] Navy
 - [ ] Airforce
 - [ ] Spaceforce
-- [ ] Coat gaurd (Is this even a military branch?)
+- [ ] Coast gaurd (Is this even a military branch?)
 
-**Did you like my Quiz?**
+3. **Did you like my Quiz?**
 - [ ] Yes!
 - [ ] No!
 - [ ] Sorta?
 
+***Thanks for checking me out! :)*** 
