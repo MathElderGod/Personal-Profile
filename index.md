@@ -27,22 +27,22 @@ You can check out my [LinkedIn](www.linkedin.com/in/alexander-arias-1bb58a111) i
 ### Quiz Time!
 
 1. **How many degrees did I graduate with?**
-- [ ] It is definetly 0
-- [ ] I want to say 2?
-- [ ] I honestly can't remember
-- [ ] It was 4!
+   - [ ] It is definetly 0
+   - [ ] I want to say 2?
+   - [ ] I honestly can't remember
+   - [ ] It was 4!
 
 2. **What branch of the military did I serve in?**
-- [ ] Army
-- [ ] Marines
-- [ ] Navy
-- [ ] Airforce
-- [ ] Spaceforce
-- [ ] Coast gaurd (Is this even a military branch?)
+   - [ ] Army
+   - [ ] Marines
+   - [ ] Navy
+   - [ ] Airforce
+   - [ ] Spaceforce
+   - [ ] Coast gaurd (Is this even a military branch?)
 
 3. **Did you like my Quiz?**
-- [ ] Yes!
-- [ ] No!
-- [ ] Sorta?
+   - [ ] Yes!
+   - [ ] No!
+   - [ ] Sorta?
 
 ***Thanks for checking me out! :)*** 
