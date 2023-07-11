@@ -14,7 +14,7 @@ Having been accepted into multiple prestigious institutions, I chose to speciali
 
 Recently, I had the honor of being invited to participate in the National Name Exchange, indicating my potential for graduate studies. As I look forward to graduating in Fall 2023, I am excited about leveraging my academic and military experiences to contribute to the field of computer science. I am actively seeking opportunities to apply my unique skill set and grow as a professional in the tech industry
 
-You can check out my [LinkedIn](www.linkedin.com/in/alexander-arias-1bb58a111) if you're interested.
+You can check out my [LinkedIn](https://www.linkedin.com/in/alexander-arias-1bb58a111) if you're interested.
 
 ### My Hobbies:
 
