@@ -1,6 +1,6 @@
 # Alexander G. Arias' Developer Page
 
-<img src="Images/23UCSD-16525320-15-1008812455-1.jpg" alt="Picture of myself in a suit, smiling with my arms crossed while looking to the side." width="225" height="300" style="border:5px solid gray;">
+<img src="Images/23UCSD-16525320-15-1008812455-1.jpg" alt="Picture of myself in a suit, smiling with my arms crossed while looking to the side." width="225" height="300" style="border:5px solid gray">
 
 ## My Ethos:
 
