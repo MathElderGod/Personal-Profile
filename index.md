@@ -1,6 +1,6 @@
 # Alexander G. Arias' Developer Page
 
-![Picture of myself in a suit, smiling with my arms crossed while looking to the side.](Images\23UCSD-16525320-15-1008812455-1.jpg)
+![Picture of myself in a suit, smiling with my arms crossed while looking to the side.](Images/23UCSD-16525320-15-1008812455-1.jpg)
 
 ## My Ethos:
 
